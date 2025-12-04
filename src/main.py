@@ -4,8 +4,9 @@ src/operaciones.py
 """
 Módulo de operaciones matemáticas básicas.
 (En este estado inicial, las funciones están definidas pero sin implementar.)
-estado actualizado
 
+1º Estado actualizado.
+2º Estado actualizado por segunda vez.
 
 """
 def sumar(a, b):
